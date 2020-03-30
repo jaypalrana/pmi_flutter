@@ -11,6 +11,7 @@
 .metadata/
 .packages/
 .dart_tool/
+.test/
 
 # IntelliJ related
 *.iml
