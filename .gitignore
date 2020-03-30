@@ -10,7 +10,6 @@
 .svn/
 .metadata/
 .packages/
-.idea/
 .dart_tool/
 
 # IntelliJ related
