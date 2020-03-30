@@ -31,7 +31,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
 
-        title: Text("Home Page"),
+        title: Text("PMI Flutter"),
       ),
       body: Center(
         child: Column(
